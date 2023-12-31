@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+}
+.season-image{
+    height:85vh;
+    width:100%;
+}
+.button{
+    color:white;
+    background-color: #cbd2d9;
+    height:80px;
+    width:100px;
+    font-family: "Roboto";
+    border-radius:10px;
+    border-width:0px;
+    margin-left: 10px;
+    margin-right:10px;
+}
+.spring-button{
+    background-color: #3a7333;
+}
+.summer-button{
+    background-color: #e0bb00;
+}
+.autumn-button{
+    background-color: #b04400;
+}
+.winter-button{
+    background-color: #0f7cb6;
+}
